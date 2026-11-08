@@ -1,0 +1,10 @@
+# Masjid Al-Iman – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Al-Iman"
+description: "Masjid Al-Iman, Munkkiniemen puistotie 4 A, 00330 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-al-iman     # tiedosto _moskeijat/masjid-al-iman.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-al-iman/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-al-iman"
