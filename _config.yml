@@ -8,3 +8,4 @@ moskeija: masjid-al-iman     # tiedosto _moskeijat/masjid-al-iman.md
 # Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
 url: "https://suomen-moskeijat.github.io"
 baseurl: "/masjid-al-iman"
+kielet: [fi]   # sivuston kielivalikko (hallintapaneeli → Asetukset)
